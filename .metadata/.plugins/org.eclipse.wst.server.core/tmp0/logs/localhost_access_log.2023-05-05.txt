@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:00:13 +0530] "POST /ManageServices/choose HTTP/1.1" 200 714
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:00:25 +0530] "GET /ManageServices/Delete.jsp?sid=3&sName=wash&scharge=6500&sDes=full+car+wash HTTP/1.1" 200 775
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:00:31 +0530] "GET /ManageServices/selectUpdate.jsp HTTP/1.1" 200 548
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:02:15 +0530] "GET /ManageServices/Home.jsp HTTP/1.1" 200 476
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:02:53 +0530] "GET /ManageServices/ChooseUpdate.jsp HTTP/1.1" 200 423
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:02:55 +0530] "POST /ManageServices/choose HTTP/1.1" 200 735
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:02:58 +0530] "GET /ManageServices/Delete.jsp?sid=1&sName=Oil+Change&scharge=655&sDes=Full+oil+change HTTP/1.1" 200 782
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:03:08 +0530] "POST /ManageServices/choose HTTP/1.1" 200 735
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:03:10 +0530] "GET /ManageServices/Delete.jsp?sid=1&sName=Oil+Change&scharge=655&sDes=Full+oil+change HTTP/1.1" 200 782
+0:0:0:0:0:0:0:1 - - [05/May/2023:00:03:25 +0530] "GET /ManageServices/Update.jsp?sid=1&sName=Oil+Change&scharge=655&sDes=Full+oil+change HTTP/1.1" 200 672
+127.0.0.1 - - [05/May/2023:15:55:41 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/May/2023:15:55:42 +0530] "GET /ManageServices/Home.jsp HTTP/1.1" 200 476
+0:0:0:0:0:0:0:1 - - [05/May/2023:15:55:45 +0530] "GET /ManageServices/ViewServices.jsp HTTP/1.1" 200 411
